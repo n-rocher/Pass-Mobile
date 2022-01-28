@@ -1,0 +1,35 @@
+{
+  "files.exclude": {
+    ".watchmanconfig": true,
+    ".eslintrc.js": true,
+    ".buckconfig": true,
+    ".vscode": true,
+    "android\\.gradle": true,
+    "android\\.idea": true,
+    "android\\Pass.iml": true,
+    "android\\local.properties": true,
+    "android\\app\\build": true,
+    "android\\app\\app.iml": true,
+    "android\\app\\proguard-rules.pro": true,
+    "android\\app\\build_defs.bzl": true,
+    "App - BACKUP": true,
+    "babel.config.js": true,
+    "android\\java_pid16380.hprof": true,
+    "android\\java_pid20764.hprof": true
+  },
+  "i18n-ally.localesPaths": [
+    "App/Translation/locales"
+  ],
+  "i18n-ally.sortKeys": true,
+  "i18n-ally.keepFulfilled": true,
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.sourceLanguage": "fr",
+  "i18n-ally.editor.preferEditor": true,
+  "i18n-ally.enabledFrameworks": [
+    "react"
+  ],
+  "i18n-ally.refactor.templates": [
+    "I18N.t(\"{key}\")",
+    "{I18N.t(\"{key}\")}"
+  ]
+}
